@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  background: #303030;
+  gap: 1060px;
+}
+
+@media (min-width: 600px) and (max-width: 1299px) {
+  .header {
+    gap: 100px;
+  }
+}
+
+/* Media query for mobile (e.g., 480px) */
+@media (max-width: 599px) {
+  .header {
+    gap: 50px;
+  }
+}

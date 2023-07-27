@@ -1,0 +1,67 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Getting Started with React",
+      "image": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+      "author": "John Doe",
+      "publishDate": "2023-07-20",
+      "content": "In this blog post, we will explore the basics of React and how to set up a new React project.",
+      "tags": ["React", "Frontend", "Web Development"]
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Node.js",
+      "image": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+      "author": "Jane Smith",
+      "publishDate": "2023-07-18",
+      "content": "Node.js is a powerful server-side JavaScript runtime. Learn how to build scalable applications with Node.js.",
+      "tags": ["Node.js", "Backend", "Web Development"]
+    },
+    {
+      "id": 3,
+      "title": "CSS Tricks for Beautiful Layouts",
+      "image": "https://images.pexels.com/photos/11035386/pexels-photo-11035386.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+      "author": "Alex Johnson",
+      "publishDate": "2023-07-15",
+      "content": "Discover some CSS tricks and techniques to create stunning and responsive web layouts.",
+      "tags": ["CSS", "Frontend", "Web Design"]
+    },
+    {
+      "id": 4,
+      "title": "Best Practices in UI/UX Design",
+      "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+      "author": "Emily Lee",
+      "publishDate": "2023-07-12",
+      "content": "Learn about the best practices in user interface and user experience design to create delightful user interactions.",
+      "tags": ["UI/UX", "Design", "Web Development"]
+    },
+    {
+      "id": 5,
+      "title": "JavaScript ES6 Features",
+      "image": "https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+      "author": "Michael Brown",
+      "publishDate": "2023-07-10",
+      "content": "Explore the new features introduced in ECMAScript 6 (ES6) and how they can improve your JavaScript code.",
+      "tags": ["JavaScript", "Frontend", "Web Development"]
+    },
+    {
+      "id": 6,
+      "title": "Introduction to GraphQL",
+      "image": "https://images.pexels.com/photos/6476260/pexels-photo-6476260.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+      "author": "Sarah Adams",
+      "publishDate": "2023-07-05",
+      "content": "Get started with GraphQL, a query language for your API, and how it differs from traditional REST APIs.",
+      "tags": ["GraphQL", "Backend", "Web Development"]
+    }
+  ],
+  "feedback": [
+    "Great blog! Very informative.",
+    "Loved the content. Keep it up!",
+    "This blog helped me a lot. Thank you!",
+    "Amazing writing. I learned a lot.",
+    "One of the best blogs I've read.",
+    "Clear and concise. Easy to understand.",
+    "I would love to see more posts like this."
+  ]
+}
